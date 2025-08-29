@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Bleach</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h3 {
+            text-shadow: 2px 2px 5px red;
+            color: black;
+        }
+
+        .container {
+            background-color: gray;
+            padding: 20px;
+            text-align: center;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin: 20px 0;
+        }
+
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            background-color: white;
+            color: black;
+        }
+
+        table, th, td {
+            border: 3px solid black;
+            padding: 10px;
+        }
+
+        a {
+            color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3>Bleach</h3>
+        <p><strong>Explicação sobre o universo do anime Bleach:</strong></p>
+
+        <p>"Bleach" é um anime e mangá japonês criado por Tite Kubo. A história segue Ichigo Kurosaki, um adolescente com a habilidade de ver espíritos, que acidentalmente recebe os poderes de um shinigami, ou ceifador de almas, chamado Rukia Kuchiki.</p>
+
+        <p>Ichigo então assume o papel de shinigami temporário para proteger os vivos dos espíritos malignos conhecidos como Hollows. Conforme a série avança, Ichigo e seus amigos, incluindo seus colegas de classe Orihime Inoue, Yasutora "Chad" Sado e Uryu Ishida, enfrentam várias ameaças sobrenaturais.</p>
+
+        <p>O enredo de "Bleach" é repleto de batalhas emocionantes, traições, amizades e descobertas sobre o mundo espiritual. Ao longo da série, Ichigo e seus aliados enfrentam diversos inimigos, incluindo outros shinigamis, grupos rebeldes e seres poderosos conhecidos como Arrancars.</p>
+
+        <p>A série explora temas como amizade, honra, sacrifício e responsabilidade. Além disso, possui uma ampla variedade de personagens carismáticos, cada um com habilidades únicas e motivações próprias. "Bleach" foi adaptado para anime, com várias temporadas que cobrem arcos importantes do mangá. Também inspirou filmes, OVAs (Original Video Animations) e jogos de vídeo game.</p>
+
+        <img src="629921402p.jpg" alt="Imagem de Bleach">
+
+        <p><a href="https://bleach.fandom.com/pt/wiki/Bleach_Wiki" target="_blank">Wiki para muito mais detalhe sobre Bleach</a></p>
+
+        <h2>Raças em Bleach e suas transformações</h2>
+        <table>
+            <tr>
+                <th>Raça</th>
+                <th>1ª Forma</th>
+                <th>2ª Forma</th>
+            </tr>
+            <tr>
+                <td>Shinigami</td>
+                <td>Shikai</td>
+                <td>Bankai</td>
+            </tr>
+            <tr>
+                <td>Hollow</td>
+                <td>Ressurreição</td>
+                <td>Segunda Etapa</td>
+            </tr>
+            <tr>
+                <td>Quincy</td>
+                <td>Forstendich / Quincy Letzt Stil</td>
+                <td>Vollständig</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
